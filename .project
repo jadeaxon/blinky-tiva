@@ -27,7 +27,7 @@
 	<variableList>
 		<variable>
 			<name>ORIGINAL_PROJECT_ROOT</name>
-			<value>file:/C:/ti/TivaWare_C_Series-2.1.2.111/examples/boards/ek-tm4c1294xl/blinky/ccs</value>
+			<value>file:/opt/ti/TivaWare_C_Series-2.1.2.111/examples/boards/ek-tm4c1294xl/blinky/ccs</value>
 		</variable>
 		<variable>
 			<name>SW_ROOT</name>
